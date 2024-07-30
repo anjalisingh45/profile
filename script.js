@@ -36,7 +36,7 @@ function myMenuFunction(){
   
   /* ----- TYPING EFFECT ----- */
   let typingEffect = new Typed(".typedText",{
-    strings : ["Fullstack web Devloper.","Video editor."],
+    strings : ["Fullstack web Devloper.","Figma UI Design."],
     loop : true,
     typeSpeed : 100,
     backSpeed : 80,
